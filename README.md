@@ -60,4 +60,21 @@ Create MySQL DB: -> CREATE DATABASE expense_tracker;
 ### 🌐 Frontend (React)
 cd expense-tracker-frontend -> npm install -> npm start
 
+## 🖥️ Output Snapshots
+
+### 🔹Login & Registration 
+- [View Registration Page](IMAGES/virtual_radar_op1.jpeg)
+- [View Login Page](IMAGES/virtual_radar_op2.jpeg)
+
+### 🔹 Dashboard
+- [View Dashboard](IMAGES/Helical_antenna.jpeg)
+
+### 🔹 Expense Management
+- [Add Expense](IMAGES/Virtual_radar_server.png)
+- [Edit Expense](IMAGES/Virtual_radar_server.png)
+- [Delete Expense](IMAGES/Virtual_radar_server.png)
+
+### 🔹 Monthly Summary
+- [View Summary Page](IMAGES/Helical_antenna.jpeg)
+
 
