@@ -1,0 +1,39 @@
+.summary-container {
+  margin-left: 240px;
+  padding: 25px;
+  background-color: #f8fafc;
+  min-height: 100vh;
+}
+
+.filter {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #38bdf8;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0284c7;
+}
+
+.summary-card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}

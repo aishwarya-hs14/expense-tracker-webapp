@@ -1,0 +1,53 @@
+.sidebar {
+  width: 230px;
+  height: 100vh;
+  background-color: #0f172a;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 15px;
+  position: fixed;
+  box-sizing: border-box;
+  padding-bottom: 40px; /* ✅ add this line to lift the logout button slightly */
+}
+
+.sidebar h2 {
+  text-align: center;
+  color: #38bdf8;
+  font-size: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.sidebar li {
+  margin: 15px 0;
+}
+
+.sidebar a {
+  color: #e2e8f0;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.sidebar a:hover {
+  color: #38bdf8;
+}
+
+.sidebar button {
+  background-color: #e11d48;
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-bottom: 10px; /* ✅ this moves it up slightly more */
+}
+
+.sidebar button:hover {
+  background-color: #be123c;
+}
