@@ -63,18 +63,18 @@ cd expense-tracker-frontend -> npm install -> npm start
 ## 🖥️ Output Snapshots
 
 ### 🔹Login & Registration 
-- [View Registration Page](IMAGES/virtual_radar_op1.jpeg)
-- [View Login Page](IMAGES/virtual_radar_op2.jpeg)
+- [View Registration Page](project_screenshots/register.png)
+- [View Login Page](project_screenshots/login.png)
 
 ### 🔹 Dashboard
-- [View Dashboard](IMAGES/Helical_antenna.jpeg)
+- [View Dashboard](project_screenshots/dashboard.png)
 
 ### 🔹 Expense Management
-- [Add Expense](IMAGES/Virtual_radar_server.png)
-- [Edit Expense](IMAGES/Virtual_radar_server.png)
-- [Delete Expense](IMAGES/Virtual_radar_server.png)
+- [Add Expense](project_screenshots/addExpense.png)
+- [Edit Expense](project_screenshots/editExpense.png)
+- [Delete Expense](project_screenshots/deleteExpense.png)
 
 ### 🔹 Monthly Summary
-- [View Summary Page](IMAGES/Helical_antenna.jpeg)
+- [View Summary Page](project_screenshots/summary.png)
 
 
