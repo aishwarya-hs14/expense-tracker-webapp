@@ -22,7 +22,7 @@ I built this project to practice **Spring Boot + React + MySQL** and strengthen 
 
 
 ## 📂 Project Structure
-project_expense_tracker/
+expense-tracker-webapp/
 ├── expense-tracker -> Spring Boot backend
 └── expense-tracker-frontend -> React frontend
 
